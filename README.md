@@ -5,3 +5,20 @@ I want to use Unity or Unreal for my final project to create a game that is simi
 This project will be completed alone.
 ## Do you have any questions of your own?
 There are no questions at the moment!
+# Proposal
+## What will be the title of your project?
+On the Run.
+## In a sentence or two summarize your project.
+A game similar to Temple Run.
+## In a paragraph or more, detail your project.
+The game I'll be working on will be made with Unreal or Unity. Players can navigate their characters through the maze in this game to reach their objective. The character will have opportunities to gather points during the game; the more points you have, the harder the level you can access. In order to reach the finish line in this game, you'll need to jump over and slide through various obstacles like bridges and gaps. In the game, there will be other characters that will cause obstacles in the way of finishing.
+## If planning to combine 1051's final project with another course's final project, which other course?
+There will be no other course this project is combined with.
+### In a sentence define a good outcome for your final project.
+Making the game is something I will finish for this assignment no matter what. Despite the fact that it might not be flawless and contain every feature I might want, I will be able to make the game. If the game isn't perfected, it will still function.
+### In a sentence, define a better outcome for your final project.
+While it might not be perfect, I believe I can create the game with graphics and functionality. 
+### In a sentence, define the best outcome for your project.
+My game should provide the correct graphics, I hope. It is also my goal to create a variety of levels with different levels of difficulty. Finally, I hope the game's character is able to gather the points along the way.
+## In a paragraph or more, outline your next steps.
+I'm going to have to learn how to use Unreal or Unity for this project. I'll need to look up information online and watch videos to understand more about this application because I'm not familiar with it. Finally, to make this project more complex, I must look into other people's similar ideas to get inspiration for how to create this game.
