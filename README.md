@@ -22,3 +22,16 @@ While it might not be perfect, I believe I can create the game with graphics and
 My game should provide the correct graphics, I hope. It is also my goal to create a variety of levels with different levels of difficulty. Finally, I hope the game's character is able to gather the points along the way.
 ## In a paragraph or more, outline your next steps.
 I'm going to have to learn how to use Unreal or Unity for this project. I'll need to look up information online and watch videos to understand more about this application because I'm not familiar with it. Finally, to make this project more complex, I must look into other people's similar ideas to get inspiration for how to create this game.
+# Status Report
+#### Name
+Laiya Saunders
+#### Section Leader Name
+Professor Rosen - Section Leader: Elmira Talebianaraki
+#### Project Title
+On the Run.
+#### What have you done for your project so far?
+I've seen plenty of Unreal tutorials that will assist me in making the game. Additionally, I downloaded the program and became familiar with its fundamental features. I've begun working on the game's basic code.
+#### What have you not done for your project yet?
+I haven't begun creating the game's graphics yet. Additionally, I still don't know how I'm going to create multiple game levels.
+#### What problems have you encountered?
+The only problem I ran in is figuring out how I'm going to make the game more complex.
